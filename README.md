@@ -12,7 +12,8 @@
 #### Требования к результаты 
 1. Прикрепите в файл README.md скриншот авторизации в админке.
 2. Приложите в файл README.md текст использованных команд в GitHub.
-
+![img](https://github.com/znak72/Zabbix-1/blob/main/SCR-20231016-oldn.png)
+[img](https://github.com/znak72/Zabbix-1/blob/main/SCR-20231016-olsp.png)
 ---
 
 ### Задание 2 
