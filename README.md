@@ -33,3 +33,6 @@
 2. Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
 3. Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
 4. Приложите в файл README.md текст использованных команд в GitHub
+### Решение 2
+![img](https://github.com/znak72/Zabbix-1/blob/main/SCR-20231017-kntv.png)
+![img](https://github.com/znak72/Zabbix-1/blob/main/SCR-20231017-kota.png)
